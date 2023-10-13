@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lexi
-- 🌱 I’m currently learning edge computing
 
 
 <!---
